@@ -29,7 +29,7 @@ export default function MissionVisionPage() {
     "To gradually establish a first-class modern hospital with 1000 beds.",
     "To ensure high-quality healthcare services, to procure and develop modern equipment, skilled doctors, nurse and manpower, and to ensure effective and efficient management.",
     "To develop medical colleges, nursing schools, and other healthcare institutions.",
-    "o train and develop skilled doctors, nurses, and healthcare professionals.",
+    "To train and develop skilled doctors, nurses, and healthcare professionals.",
     "To enhance the hospital's organizational structure for better management.",
   ]
 
