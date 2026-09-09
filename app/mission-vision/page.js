@@ -26,11 +26,11 @@ export default function MissionVisionPage() {
   }, [])
 
   const missionPoints = [
-    "To gradually establish a first-class modern hospital with 1000 beds.",
-    "To ensure high-quality healthcare services, to procure and develop modern equipment, skilled doctors, nurse and manpower, and to ensure effective and efficient management.",
-    "To develop medical colleges, nursing schools, and other healthcare institutions.",
-    "To train and develop skilled doctors, nurses, and healthcare professionals.",
-    "To enhance the hospital's organizational structure for better management.",
+    "Gradually establish a first-class modern hospital with 1000 beds.",
+    "Ensure high-quality healthcare services and advanced medical equipment.",
+    "Develop medical colleges, nursing schools, and other healthcare institutions.",
+    "Train and develop skilled doctors, nurses, and healthcare professionals.",
+    "Enhance the hospital's organizational structure for better management.",
   ]
 
   const values = [
