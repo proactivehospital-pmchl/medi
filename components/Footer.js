@@ -122,7 +122,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="bg-white/10 p-3 rounded-lg">
                 <p className="text-white/90 text-sm italic">
-                  {"বিশ্ব মশা দিবস ২০২৬"}
+                  {"বিশেষায়িত সেবায় আস্থা—থাইরয়েড, মাথা ও গলার সুস্থতায় সমন্বিত চিকিৎসা।"}
                 </p>
               </div>
               <ul className="text-white/80 text-sm space-y-2">
